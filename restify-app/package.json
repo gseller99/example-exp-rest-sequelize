@@ -1,0 +1,16 @@
+{
+  "name": "restify-app",
+  "version": "1.0.0",
+  "description": "This is a sample restify app for the class",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Inventive",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^6.3.4",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.36.1"
+  }
+}
